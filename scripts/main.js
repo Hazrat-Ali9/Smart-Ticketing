@@ -110,3 +110,5 @@ button.addEventListener("click", function () {
         alert("Invalid Coupon");
     }
 });
+
+// main js
